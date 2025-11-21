@@ -1,0 +1,2 @@
+# Simple Vulnerability Scanner
+# No external dependencies required

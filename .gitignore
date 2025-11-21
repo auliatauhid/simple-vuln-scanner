@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+env/
+venv/.env
+
+# IDE
+.idea/.vscode/
+
+# Logs
+*.log
+
+# Secrets
+/credentials.json
+/secret_*.*
