@@ -4,7 +4,7 @@ Simple Python tool to scan ports, grab banners, and match results against a loca
 
 ## Usage
 
-\\\ash
+\\\Bash
 python scanner.py
 \\\`n
 ## Disclaimer
